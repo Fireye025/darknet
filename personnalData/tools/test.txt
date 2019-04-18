@@ -1,0 +1,4 @@
+/home/aseysen/TravauxRecherches/ButtesDetectProject/darknet/build/darknet/x64/data/obj/tbing-19_237870_202260.jpg
+/home/aseysen/TravauxRecherches/ButtesDetectProject/darknet/build/darknet/x64/data/obj/tbing-19_236600_279910.jpg
+/home/aseysen/TravauxRecherches/ButtesDetectProject/darknet/build/darknet/x64/data/obj/tbing-19_210140_293930.jpg
+/home/aseysen/TravauxRecherches/ButtesDetectProject/darknet/build/darknet/x64/data/obj/tbing-19_216020_287440.jpg
