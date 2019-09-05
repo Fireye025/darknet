@@ -1,0 +1,8 @@
+This is a search logbook in the context of the project ButtesDetect began by Jaara56.
+05/09/2019:
+After the work of Jaara56, I have 3 ideas to try in the project.
+-Use another thing that yolo or even darknet to compare the performances.
+-Use another tool(a deep learning one) before darknet that count the number of items approximatively in a picture. I'll have 
+to integrate the number in the process of darknet to make it search the nearest number from the other tool.
+-Use darknet a first time to detect what time of landscape I analyse and a second time to detect the buttes that we search.
+It may take a longer time to use two times darknet, but the results could be a lor more precise.
